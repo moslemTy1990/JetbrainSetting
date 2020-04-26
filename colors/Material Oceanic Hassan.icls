@@ -4,7 +4,7 @@
     <property name="created">2020-04-25T20:19:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-25T21:12:12</property>
+    <property name="modified">2020-04-26T17:37:24</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -2657,6 +2657,16 @@
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="PHP_DOC_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="56826f" />
+      </value>
+    </option>
+    <option name="PHP_DOC_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="965d47" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
