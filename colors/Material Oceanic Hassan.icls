@@ -4,7 +4,7 @@
     <property name="created">2020-04-25T20:19:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-26T17:37:24</property>
+    <property name="modified">2020-04-26T21:46:29</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -2676,7 +2676,7 @@
     </option>
     <option name="PHP_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="6171bb" />
+        <option name="FOREGROUND" value="5a7a98" />
       </value>
     </option>
     <option name="PHP_FUNCTION_CALL">
