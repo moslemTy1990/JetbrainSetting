@@ -6,6 +6,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
