@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="con" value="/**&#10;* $FILENAME$ constructor.&#10;*/&#10;public function __construct($ARGS$)&#10;{&#10;    $END$&#10;}" description="Create Constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="FILENAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
