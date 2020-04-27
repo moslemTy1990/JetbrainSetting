@@ -9,9 +9,15 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindPrevious" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -19,7 +25,11 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="ParameterInfo" />
+  <action id="PrevSplitter" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
@@ -27,8 +37,27 @@
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Rerun" />
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
