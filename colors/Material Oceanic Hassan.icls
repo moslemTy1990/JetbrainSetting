@@ -4,7 +4,7 @@
     <property name="created">2020-04-25T20:19:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-26T21:59:40</property>
+    <property name="modified">2020-04-27T12:48:42</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
@@ -418,12 +418,12 @@
     </option>
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="22b506" />
       </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_MODIFIED">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="54b12f" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -1327,7 +1327,7 @@
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="34a81a" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
